@@ -1,0 +1,14 @@
+# Datos Procesados
+data/processed
+
+# Modelos entrenados
+*.pk1
+
+# Archivos de Jupiter
+*ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+
+# Archivos temporales
+_pychache_/
